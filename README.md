@@ -55,13 +55,21 @@ Labels:
 ## Requirements
 
 Required packages:
-1.pandas
-2.openpyxl
-3.transformers
-4.torch
-5.datasets
-6.scikit-learn
-7.matplotlib
+
+1. pandas
+
+2. openpyxl
+
+3. transformers
+
+4. torch
+
+5. datasets
+
+6. scikit-learn
+
+7. matplotlib
+
 
 ## Instructions (Run locally)
 <pre>
