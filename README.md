@@ -1,4 +1,4 @@
-# Intent-classification-assignment
+# Intent Classifier
 
 ## Objective:
 
